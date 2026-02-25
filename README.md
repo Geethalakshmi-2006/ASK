@@ -135,7 +135,7 @@ plt.show()
 <img width="990" height="790" alt="image" src="https://github.com/user-attachments/assets/e8113751-e266-4a72-91db-30423ccbd45b" />
 
 # Results
-```
+
 Thus, the Python program for the modulation and demodulation of ASK and FSK has been successfully simulated and verified.
-```
+
 
